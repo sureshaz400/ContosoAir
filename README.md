@@ -1,4 +1,8 @@
+[![Build Status](https://dev.azure.com/stylishsamuel/Deploying%20Docker%20containers%20to%20Azure%20App%20Service%20web%20apps/_apis/build/status/sureshaz400.ContosoAir?branchName=master)](https://dev.azure.com/stylishsamuel/Deploying%20Docker%20containers%20to%20Azure%20App%20Service%20web%20apps/_build/latest?definitionId=7&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+
+
 
 
 # Microsoft.Github CI Demo
